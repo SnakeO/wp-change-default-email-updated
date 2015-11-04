@@ -40,7 +40,7 @@ __Voila 1, 2, 3: You are done!__
 1. Go to Plugins Settings Screen and enter your Email Address and Name
 
 == Changelog ==
-= 0.5 =
+= 0.5 = 11/3/2015
 * Newer versions of PHP now supported
 
 = 0.3 =
